@@ -10,11 +10,7 @@ end
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 
-	return programmer_hash =
-	{
-		:known_for => "Object Orientation",
-		:languages => ["Smalltalk", "LISP"]
-	}
+	return programmer_hash = "Object Orientation"
 end
 
 def dennis_ritchies_language
