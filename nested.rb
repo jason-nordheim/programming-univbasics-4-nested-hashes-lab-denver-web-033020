@@ -1,14 +1,13 @@
 
 def hopper
 	programmer_hash =
- 		{:known_for => "COBOL", :languages => ["COBOL", "FORTRAN"] } 
+ 		{:known_for => "COBOL", :languages => ["COBOL", "FORTRAN"] }
 end
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 
 	programmer_hash ={  :known_for => "Object Orientation", :languages => ["Smalltalk", "LISP"] } 
-
 end
 
 def dennis_ritchies_language
