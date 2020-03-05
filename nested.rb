@@ -14,11 +14,7 @@ def alan_kay_is_known_for
 end
 
 def dennis_ritchies_language
-	return programmer_hash =
- 		{
-      :known_for => "Unix",
-      :languages => ["C"]
-     }
+	return programmer_hash = ["C"]
 end
 
 def adding_matz
